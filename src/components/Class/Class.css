@@ -1,0 +1,21 @@
+.class {
+    margin: auto;
+    width: 25%;
+    height: 250px;
+    background-color: rgb(109, 190, 228);
+    border: 4.25px solid green;
+    padding: 3px;
+}
+#title {
+    font-size: 90%;
+    border: 2px solid rgb(0, 0, 0);
+    font-weight: bold;
+}
+#department {
+    font-size: 85%;
+    border: 2px solid rgb(0, 0, 0);
+}
+#description {
+    font-size: 80%;
+    border: 2px solid rgb(0, 0, 0);
+}
